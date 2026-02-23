@@ -24,35 +24,26 @@ Le projet se divise en deux phases distinctes :
 
 La page d'accueil comprend plusieurs sections clés :
 
-* 
-**Header :** Logo, menu de navigation et boutons d'inscription/connexion.
+* **Header :** Logo, menu de navigation et boutons d'inscription/connexion.
 
-* 
-**Section Héro :** Titre principal, slogan et bouton d'appel à l'action (CTA).
+* **Section Héro :** Titre principal, slogan et bouton d'appel à l'action (CTA).
 
-* 
-**Contenu principal :** Mise en avant des formations populaires, avantages et témoignages.
+* **Contenu principal :** Mise en avant des formations populaires, avantages et témoignages.
 
-* 
-**Footer :** Informations de contact, liens légaux et réseaux sociaux.
+* **Footer :** Informations de contact, liens légaux et réseaux sociaux.
 
 
 ## Technologies et Outils
 
-* 
-**HTML5 :** Utilisation stricte de balises sémantiques et de titres hiérarchisés.
+* **HTML5 :** Utilisation stricte de balises sémantiques et de titres hiérarchisés.
 
-* 
-**CSS3 :** Mise en page fluide via Flexbox ou Grid, avec un fichier externe obligatoire et aucun CSS inline.
+* **CSS3 :** Mise en page fluide via Flexbox ou Grid, avec un fichier externe obligatoire et aucun CSS inline.
 
-* 
-**Tailwind CSS :** Utilisation des classes utilitaires pour la seconde version.
+* **Tailwind CSS :** Utilisation des classes utilitaires pour la seconde version.
 
-* 
-**Ressources externes :** Typographie "Montserrat" via Google Fonts et icônes via Font Awesome.
+* **Ressources externes :** Typographie "Montserrat" via Google Fonts et icônes via Font Awesome.
 
-* 
-**Hébergement :** Déploiement en ligne géré par GitHub Pages depuis la branche `main`.
+* **Hébergement :** Déploiement en ligne géré par GitHub Pages depuis la branche `main`.
 
 
 
