@@ -9,7 +9,7 @@
 
 ## À propos du projet
 
-Ce projet consiste à construire la page d'accueil de **Klivio**, une plateforme proposant des formations en ligne, à partir d'une maquette. L'objectif principal est de réaliser une intégration web propre, responsive et accessible , puis de la déployer publiquement sous forme de site statique.
+Ce projet consiste à construire la page d'accueil de **Klivio**, une plateforme proposant des formations en ligne, à partir d'une maquette FIGMA. L'objectif principal est de réaliser une intégration web propre, responsive et accessible , puis de la déployer publiquement sous forme de site statique.
 
 Le projet se divise en deux phases distinctes :
 
